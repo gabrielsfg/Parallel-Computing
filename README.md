@@ -1,4 +1,4 @@
-# 🧠 Parallel Computing – Comparative Performance Analysis Using Apache Spark
+#Parallel Computing – Comparative Performance Analysis Using Apache Spark
 
 ![Comp. Paralela](https://github.com/brenomchd/Parallel-Computing/blob/master/Comp.%20Paralela.svg)
 
